@@ -6,52 +6,39 @@ I'm a Software Engineer who enjoys building practical web applications and solvi
 
 I mainly work with modern JavaScript technologies and I'm expanding my knowledge in backend development, cloud, and DevOps.
 
-## 💻 Tech Stack
+💻 Tech Stack
+Frontend
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" /> </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-</p>
+Backend
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" /> </p>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
+Database
 
-## 📊 GitHub Stats
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IT21223808&show_icons=true&hide_border=true" />
-</p>
+Tools
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21223808&layout=compact&hide_border=true" />
-</p>
-## 🌱 Currently Learning
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </p>
 
-* Spring Boot
-* AWS & Cloud
-* Docker & Containerization
-* CI/CD
-* DevOps practices
-* Backend development
+📊 GitHub Stats
 
-## 📫 Connect With Me
+<p> <img src="https://github-readme-stats.vercel.app/api?username=IT21223808&show_icons=true&hide_border=true" /> </p>
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/jathursika-linganathan/)
-* 💻 [GitHub](https://github.com/IT21223808)
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21223808&layout=compact&hide_border=true" /> </p>
 
----
+🔥 GitHub Streak
+
+<p> <img src="https://streak-stats.demolab.com?user=IT21223808&hide_border=true" /> </p>
+
+🌱 Currently Learning
+Spring Boot
+Backend Development
+Cloud & DevOps Fundamentals
+📫 Connect With Me
+
+<p> <a href="https://www.linkedin.com/in/jathursika-linganathan/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/IT21223808"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> </p>
 
 ⭐ Thanks for visiting my profile!
