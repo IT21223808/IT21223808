@@ -23,11 +23,11 @@ Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=IT21223808&show_icons=true&hide_border=true" /> </p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IT21223808&show_icons=true&hide_border=true)
 
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21223808&layout=compact&hide_border=true" /> </p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IT21223808&layout=compact&hide_border=true)
 
 🔥 GitHub Streak
 
