@@ -8,6 +8,27 @@ I mainly work with modern JavaScript technologies and I'm expanding my knowledge
 
 ## 💻 Tech Stack
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+## 💻 Tech Stack
+
 **Frontend**
 
 * React.js
