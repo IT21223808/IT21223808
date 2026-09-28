@@ -29,6 +29,15 @@ I mainly work with modern JavaScript technologies and I'm expanding my knowledge
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IT21223808&show_icons=true&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21223808&layout=compact&hide_border=true" />
+</p>
 ## 🌱 Currently Learning
 
 * Spring Boot
