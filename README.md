@@ -26,35 +26,8 @@ I mainly work with modern JavaScript technologies and I'm expanding my knowledge
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
-## 💻 Tech Stack
-
-**Frontend**
-
-* React.js
-* Next.js
-* JavaScript
-* TypeScript
-* Tailwind CSS
-
-**Backend**
-
-* Node.js
-* NestJS
-* Spring Boot
-* REST APIs
-
-**Database**
-
-* PostgreSQL
-* MongoDB
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* Figma
-* Trello
 
 ## 🌱 Currently Learning
 
