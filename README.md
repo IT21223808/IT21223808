@@ -6,56 +6,37 @@ I'm a Software Engineer who enjoys building practical web applications and solvi
 
 I mainly work with modern JavaScript technologies and I'm expanding my knowledge in backend development, cloud, and DevOps.
 
-## 💻 Tech Stack
+💻 Tech Stack
+Frontend
 
-### Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</p>
+Backend
 
-### Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-</p>
+Database
 
-### Database
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+Mobile
 
-### Tools
+<p> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
+Tools
 
-## 🔥 GitHub Streak
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=IT21223808&hide_border=true" />
-</p>
+🔥 GitHub Streak
 
-## 🌱 Currently Learning
+<p> <img src="https://streak-stats.demolab.com?user=IT21223808&hide_border=true" /> </p>
 
-* Spring Boot
-* Backend Development
-* Cloud & DevOps Fundamentals
+🌱 Currently Learning
+Spring Boot
+Backend Development
+DevOps Fundamentals
+📫 Connect With Me
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/jathursika-linganathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/IT21223808">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
+<p> <a href="https://www.linkedin.com/in/jathursika-linganathan/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/IT21223808"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> </p>
 
 ⭐ Thanks for visiting my profile!
