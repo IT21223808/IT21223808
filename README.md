@@ -19,10 +19,6 @@ Database
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> </p>
 
-Mobile
-
-<p> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" /> </p>
-
 Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </p>
