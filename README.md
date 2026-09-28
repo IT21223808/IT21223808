@@ -1,6 +1,6 @@
 # Hi, I'm Jathursika Linganathan 👋
 
-### Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&width=600&lines=Software+Engineer;React.js+%7C+Next.js+Developer;TypeScript+%7C+Node.js+%7C+NestJS;Exploring+Backend+%26+DevOps)](https://git.io/typing-svg)
 
 I'm a Software Engineer who enjoys building practical web applications and solving real-world problems.
 
